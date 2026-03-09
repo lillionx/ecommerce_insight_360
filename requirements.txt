@@ -1,0 +1,31 @@
+# E-Commerce Insight 360 - Python依赖清单
+# 项目: 电商全链路数据洞察平台
+# 版本: V1.0
+# 日期: 2026-03-03
+
+# Web框架
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.1.6
+
+# 数据库
+PyMySQL==1.1.0
+SQLAlchemy==2.0.23
+
+# 数据处理
+pandas==3.0.1
+numpy==1.26.2
+pyarrow==14.0.1
+
+# 前端模板
+Jinja2==3.1.2
+
+# 服务器
+gunicorn==21.2.0
+
+# 日志
+python-dotenv==1.0.0
+
+# 工具
+python-dateutil==2.8.2
+pytz==2023.3
